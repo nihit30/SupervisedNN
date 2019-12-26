@@ -1,4 +1,4 @@
-// NIHIT BHAVSAR
+
 // Dataset Used : Iris
 //  main.c
 
